@@ -1,2 +1,2 @@
-# move-nft-with-attr
+# move-nft-contract
 The Extension of Move NFT.
